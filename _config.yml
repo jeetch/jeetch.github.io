@@ -18,8 +18,8 @@ defaults:
 
 projects:
   sort_by: stars
-  sort_by options:
-    - pushed
+  #sort_by options:
+  #  - pushed
   #   - stars
   limit: 12
   exclude:
@@ -48,7 +48,7 @@ social_media:
 
 topics:
   - name: Python
-   image_url: https://pluralsight.imgix.net/paths/python-7be70baaac.png
+    image_url: https://pluralsight.imgix.net/paths/python-7be70baaac.png
 
   - name: Machine Learning
-  image_url: https://www.netclipart.com/pp/m/358-3580619_networking-sice-sa-artificial-neural-network-png.png
+    image_url: https://www.netclipart.com/pp/m/358-3580619_networking-sice-sa-artificial-neural-network-png.png
